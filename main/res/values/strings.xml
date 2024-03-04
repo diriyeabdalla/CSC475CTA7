@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UnitConverterApp</string>
+    <string-array name="unit_options">
+        <item>Temperature (Celsius to Fahrenheit)</item>
+        <item>Length (Meters to Feet)</item>
+        <item>Weight (Kilograms to Pounds)</item>
+    </string-array>
+</resources>
